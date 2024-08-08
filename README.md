@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<!-- Here explaining who am I -->
+
 - 🔭 I’m currently working on galactic ideas
 - 🌱 I’m currently learning Python, Scala and Matlab
 <!-- - 👯 I’m looking to collaborate on fintech projects --> 
