@@ -7,5 +7,7 @@
 <!-- - 👯 I’m looking to collaborate on fintech projects --> 
 <!-- - 🤔 I’m looking for help with [Risklab](https://github.com/francescosilvano/risklab) --> 
 <!-- - 💬 Ask me about --> 
-- 📫 How to reach me: send2fran@icloud.com
+- 📫 How to reach me:
+
+<!-- send2fran@icloud.com -->
 <!-- - ⚡ Fun fact: ... --> 
