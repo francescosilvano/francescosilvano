@@ -9,4 +9,5 @@ Connect with me: 📫 [Email me](mailto:send2fran@icloud.com) - 🖥️ [Persona
 <br>
 
 
-[![Francesco's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=francescosilvano&bg_color=ffffff&color=0038b8&line=0038b8&point=44c19b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Francesco's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=francescosilvano&bg_color=ffffff&color=0038b8&line=0038b8&point=44c19b&area=true&hide_border=true)
+
