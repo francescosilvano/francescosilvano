@@ -6,10 +6,4 @@ Undergraduate in Economics and Banking, currently pursuing graduate studies in E
 
 In my free time you’ll find me organizing my inbox (color-coded, of course), perfecting my coffee-to-email ratio, or explaining to friends why “just cc’ing everyone” is not a best practice.
 
-Connect with me: 📫 [Email me](mailto:send2fran@icloud.com) - 🖥️ [Personal Website](https://fs01.studio) - 📖 [Open Profile](https://openprofile.dev/profile/fsilvano) - 🔗 [LinkedIn](https://www.linkedin.com/in/francescosilvano) - 🌃 [Cosmos](https://cosmos.so/francescos/)
-
-<br>
-
-
-![Francesco's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=francescosilvano&bg_color=ffffff&color=0038b8&line=0038b8&point=44c19b&area=true&hide_border=true)
-
+Connect with me: 📫 [Email me](mailto:hello@fs01.studio) - 🖥️ [Personal Website](https://fs01.studio) - 📖 [Open Profile](https://openprofile.dev/profile/fsilvano) - 🔗 [LinkedIn](https://www.linkedin.com/in/francescosilvano)
