@@ -6,4 +6,4 @@ Undergraduate in Economics and Banking, currently pursuing graduate studies in E
 
 In my free time you’ll find me organizing my inbox (color-coded, of course), perfecting my coffee-to-email ratio, or explaining to friends why “just cc’ing everyone” is not a best practice.
 
-Connect with me: 📫 [Email me](mailto:hello@fs01.studio) - 🤙 [Schedule a call](https://cal.com/fsilvano) - 🖥️ [Visit my Website](https://fs01.studio) - 📖 [My Open Profile](https://openprofile.dev/profile/fsilvano) - 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/francescosilvano)
+Connect with me:  🖥️ [Visit my Website](https://fs01.studio) - 📖 [My Open Profile](https://openprofile.dev/profile/fsilvano) - 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/francescosilvano)
