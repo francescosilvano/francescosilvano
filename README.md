@@ -1,6 +1,6 @@
 ## Connecting the dots...
 
-Graduated in Economics and Banking at the University of Siena. Currently completing a Master’s in Engineering Management at the same university. Co-Founder of Genesi, a non-profit a third-sector organisation connecting students, young professionals, businesses, academia, and non-profits. Our mission is to create a dynamic ecosystem of knowledge and skills, turning ideas into innovative solutions.
+Graduated in Economics and Banking at the University of Siena. Currently completing a Master’s in Engineering Management at the same university. Co-Founder of Genesi, a non-profit third-sector organisation connecting students, young professionals, businesses, academia, and non-profits. Our mission is to create a dynamic ecosystem of knowledge and skills, turning ideas into innovative solutions.
 
 I am specializing in financial technology, with a focus on leveraging innovation to create impactful solutions in finance and beyond. 
 
