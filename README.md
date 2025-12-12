@@ -1,1 +1,3 @@
 ## Connecting the dots...
+
+Junior Business Technologist specializing in Financial Technology with hands-on experience in Open Finance and RegTech
