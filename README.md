@@ -1,3 +1,3 @@
 ## Connecting the dots...
 
-Junior Business Technologist specializing in Financial Technology with hands-on experience in Open Finance and RegTech. Currently pursuing a Master in Engineering Management at the University of Siena, where I previously obtained a Bachelor's degree in Economics and Banking.
+Master's candidate in Engineering Management with a flair for financial technology. I previously obtained a Bachelor's degree in Economics and Banking.
