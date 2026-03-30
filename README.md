@@ -1,3 +1,3 @@
 ## Connecting the dots...
 
-Master's candidate in Engineering Management with a flair for financial technology. I previously obtained a Bachelor's degree in Economics and Banking.
+Master's candidate in Engineering Management with a flair for financial technology. I previously obtained a Bachelor's degree in Economics and Banking. When I'm not writing code, I try to become a professional hiker ⛰️
