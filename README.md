@@ -1,3 +1,3 @@
 ## Connecting the dots...
 
-MSc student in Engineering Management with a flair for financial technology and project management. I previously studied Economics. Offline, I am exploring the great outdoors. ⛰️
+MSc student in Engineering Management with a flair for financial technology. I previously studied Economics. Offline, I am exploring the great outdoors, occasionally taking the wrong turn on the trails.
