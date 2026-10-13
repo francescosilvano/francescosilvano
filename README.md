@@ -1,3 +1,3 @@
 ## Connecting the dots...
 
-MSc student in Engineering Management with a flair for financial technology. I previously studied Economics. Offline, I am exploring the great outdoors, occasionally taking the wrong turn on the trails.
+Master’s candidate in Engineering Management at the University of Siena. With a Bachelor’s degree in Economics and Banking, I combine technical and business skills, with a strong interest in project and risk management. From hypothesis to testing, I am currently working on understanding why and where even well-planned projects fail, and what can be done about it, with the aim of making risk visible before it becomes expensive. Offline, I am exploring the great outdoors, occasionally taking wrong turns.
