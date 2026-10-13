@@ -1,3 +1,3 @@
 ## Connecting the dots...
 
-Master’s candidate in Engineering Management at the University of Siena. Previously studied Economics and Banking. From hypothesis to testing, I am currently working on understanding why and where even well-planned projects fail, and what can be done about it, with the aim of making risk visible before it becomes expensive. Offline, I am exploring the great outdoors, occasionally taking wrong turns.
+Master's candidate in Engineering Management at the University of Siena. I previously studied Economics and Banking. I work at the junction of business and technology, focusing on project and risk management, financial technology and cybersecurity. Offline, I explore the great outdoors, occasionally taking wrong turns.
